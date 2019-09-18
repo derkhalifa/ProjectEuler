@@ -40,7 +40,7 @@ namespace ProjectEuler
         }
 
         // https://projecteuler.net/problem=3
-        [TestMethod]
+        // [TestMethod]
         public void Largest_Prime_Factor()
         {
             ulong target = 600851475143;
